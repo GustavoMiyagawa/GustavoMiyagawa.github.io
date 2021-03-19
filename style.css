@@ -1,9 +1,16 @@
 body {
     font-family: 'IBM Plex Sans', sans-serif;
+    background-color: #d8e2dc;
+    color: #495057;
 }
 .font-title{
     font-family: 'Dancing Script', cursive;
+    color: black;
+    font-weight: 900;
 }
 .font-about{
     font-family: 'Syne Mono', monospace;
+}
+h2, h3 {
+    color: black;
 }
