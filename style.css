@@ -25,3 +25,13 @@ h2, h3 {
 .circled {
     border-radius: 5%;
   }
+.presentation{
+    display: inline-flex;
+}
+.photo{
+    padding: 10px 10px 8px 0px;
+    width: 225px;
+}
+.about{
+    padding: 10px;
+}
